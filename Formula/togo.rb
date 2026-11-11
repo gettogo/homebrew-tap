@@ -1,7 +1,6 @@
 class Togo < Formula
   desc "Run coding agents on your Mac and watch over them from your iPhone"
   homepage "https://github.com/gettogo/togo"
-  version "1.0.0"
   license "MIT"
 
   on_macos do

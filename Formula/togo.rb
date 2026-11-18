@@ -5,23 +5,23 @@ class Togo < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/gettogo/togo/releases/download/v1.0.4/togo_1.0.4_darwin_arm64.tar.gz"
-      sha256 "8569d48ddf63df0914945207506013e5895b18ed1ed17ab083257502d33aab62"
+      url "https://github.com/gettogo/togo/releases/download/v1.1.0/togo_1.1.0_darwin_arm64.tar.gz"
+      sha256 "339320bfd01e7846b9314d0420561501ac06395cd15178c1fc73a25692835305"
     end
     on_intel do
-      url "https://github.com/gettogo/togo/releases/download/v1.0.4/togo_1.0.4_darwin_amd64.tar.gz"
-      sha256 "09c169ea6064b5f0816f8e0c1b63d173fd486ca3000c24dd5797b858da878f62"
+      url "https://github.com/gettogo/togo/releases/download/v1.1.0/togo_1.1.0_darwin_amd64.tar.gz"
+      sha256 "fd21b1bf3a772452d9d414a345378ef45b7ad995c3b2a473b7fc09ab20380d5f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/gettogo/togo/releases/download/v1.0.4/togo_1.0.4_linux_arm64.tar.gz"
-      sha256 "45b893da7b1133ae66caf8bc8a0ce4d5b72a921d95c76f89c36eb5694d7f5daa"
+      url "https://github.com/gettogo/togo/releases/download/v1.1.0/togo_1.1.0_linux_arm64.tar.gz"
+      sha256 "bbe6b4a82dbd17b94a946d5d1f9e52cd2b8315b590fe9d4789daa1c3ff34f16b"
     end
     on_intel do
-      url "https://github.com/gettogo/togo/releases/download/v1.0.4/togo_1.0.4_linux_amd64.tar.gz"
-      sha256 "31d9cdb52314925ebf2e0c023ddf99487e1caf98bc2525611ae59e3d2ba907d9"
+      url "https://github.com/gettogo/togo/releases/download/v1.1.0/togo_1.1.0_linux_amd64.tar.gz"
+      sha256 "0755171074b451a80c5d5e5863c040a095f722831ceb5febcb51216d351b05a8"
     end
   end
 
